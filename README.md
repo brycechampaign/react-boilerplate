@@ -2,12 +2,13 @@
 A boilerplate react app.
 
 ## Getting Started
-### Clone the repository
-Run one of the following commands in your terminal:
+### Clone or download the repository
+Run one of the following commands in your terminal to clone the repository:
 ```
 https://github.com/brycechampaign/react-boilerplate // using HTTPS
 git@github.com:brycechampaign/react-boilerplate.git // using SSH
 ```
+If you do not want a functional git repo included, just download the zip and extract the project instead.
 ### Install required dependencies
 Using your terminal, navigate to the project directory and run the following command:
 ```
