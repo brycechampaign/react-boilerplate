@@ -2,6 +2,10 @@
 A boilerplate react app.
 
 ## Getting Started
+### Prerequisites
+Node.js and NPM are required for installing dependencies. Downloads can be found [here](https://nodejs.org/en/).
+
+If you want to clone the respository rather than download it, git is also required. Downloads can be found [here](https://git-scm.com/downloads).
 ### Clone or download the repository
 Run one of the following commands in your terminal to clone the repository:
 #### Clone using HTTPS
