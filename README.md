@@ -5,7 +5,7 @@ A boilerplate react app.
 ### Clone the repository
 Run one of the following commands in your terminal:
 ```
-https://github.com/brycechampaign/react-boilerplate // using http
+https://github.com/brycechampaign/react-boilerplate // using HTTPS
 git@github.com:brycechampaign/react-boilerplate.git // using SSH
 ```
 ### Install required dependencies
